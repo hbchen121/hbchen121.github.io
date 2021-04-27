@@ -4,7 +4,7 @@ SEOTitle: Haobo Chen's Home
 header-img: img/post-bg-desk.jpg
 email: haobochen@buaa.edu.cn
 description: "夜半惊醒，众人尽散，城南花盛开。"
-keyword: "计算机视觉，车辆重识别"
+keyword: "计算机视觉、车辆重识别"
 url: "https://hbchen121.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hbchen121/hbchen121.github.io.git" # you code repository
