@@ -1,7 +1,7 @@
 # Site settings
 title: 城花散尽
 SEOTitle: Haobo Chen's Home
-header-img: img/background.jpg
+header-img: img/background2.jpg
 email: haobochen@buaa.edu.cn
 description: "夜半惊醒，众人尽散，城南花盛开。"
 keyword: "计算机视觉、车辆重识别"
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: hbchen121.github.io    #仓库名称
+  owner: hbchen121   #github用户名
+  admin: hbchen121
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
