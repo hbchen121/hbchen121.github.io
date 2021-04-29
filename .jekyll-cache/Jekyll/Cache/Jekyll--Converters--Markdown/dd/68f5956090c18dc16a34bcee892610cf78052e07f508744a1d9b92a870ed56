@@ -1,14 +1,11 @@
-I"�<hr />
-<p>excerpt_separator: <!--more-->
-—</p>
+I"�<h2 id="cuda-c-编程入门">CUDA C 编程入门</h2>
+<blockquote>
+  <p>记录《大规模并行处理器编程实战（第二版）》学习过程</p>
+</blockquote>
 
 <p>Excerpt
 <!--more-->
 Out-of-excerpt</p>
-<h2 id="cuda-c-编程入门">CUDA C 编程入门</h2>
-<blockquote>
-  <p>记录《大规模并行处理器编程实战（第二版）》学习过程</p>
-</blockquote>
 
 <h3 id="了解-cuda-理论基础">了解 CUDA 理论基础</h3>
 <ul>
