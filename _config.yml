@@ -87,7 +87,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -100,9 +100,6 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "ReamberUrHeart",
-        href: "https://blog.csdn.net/qq_40491305"
-    },{
         title: "格罗比言互动社区",
         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
     },{
