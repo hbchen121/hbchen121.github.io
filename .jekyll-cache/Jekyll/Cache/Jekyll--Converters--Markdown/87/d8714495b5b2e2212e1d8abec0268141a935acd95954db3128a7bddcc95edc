@@ -1,0 +1,24 @@
+I"q<h2 id="cuda-c-编程入门">CUDA C 编程入门</h2>
+<blockquote>
+  <p>记录《大规模并行处理器编程实战（第二版）》学习过程</p>
+</blockquote>
+
+<h3 id="了解-cuda-理论基础">了解 CUDA 理论基础</h3>
+<ul>
+  <li><a href="https://blog.csdn.net/qq_40491305/article/details/114528176">第三章 CUDA 简介-CUDA C编程向量加法</a></li>
+  <li><a href="https://blog.csdn.net/qq_40491305/article/details/116235878">第四章 CUDA数据并行执行模型</a></li>
+  <li><a href="https://blog.csdn.net/qq_40491305/article/details/116236291">第五章 CUDA 存储器</a></li>
+  <li><a href="https://blog.csdn.net/qq_40491305/article/details/116236526">第六章 CUDA性能优化（内附原书链接）</a></li>
+</ul>
+
+<h3 id="cuda-简单实操入门">CUDA 简单实操入门</h3>
+<ul>
+  <li><a href="https://blog.csdn.net/qq_40491305/article/details/116235636">核函数：CUDA编程入门（一）-以图片运算看线程的组织和核函数的使用</a></li>
+  <li><a href="https://blog.csdn.net/qq_40491305/article/details/116236956">拓展：CUDA卷积计算及其优化——以一维卷积为例</a></li>
+</ul>
+
+<h3 id="cuda-c-项目实战卷积神经网络实现">CUDA C 项目实战——卷积神经网络实现</h3>
+<ul>
+  <li><a href="https://github.com/hbchen121/SimpleCNN_Release">实例参考：纯 C++/CUDA 裸指针编写 CNN 网络</a></li>
+</ul>
+:ET
