@@ -200,6 +200,11 @@ layout: default
                         {% if site.email %}
                             <p>✉️ {{site.email}}</p>
                         {% endif %}
+                        {% if site.sidebar-vx_official_account %}
+                            <a href="{{ site.baseurl }}/3-about">
+                                <img src="{{site.sidebar-vx_official_account}}"/>
+                            </a>
+                        {% endif %}
                     </div>
                 </section>
                 <!-- Friends Blog -->
