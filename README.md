@@ -1,4 +1,4 @@
-本项目 fork 自[klovien](https://github.com/klovien/klovien.github.io)，现为[hbchen121]()个人主页。
+本项目 fork 自[klovien](https://github.com/klovien/klovien.github.io)，现为[hbchen121](https://hbchen121.github.io/)个人主页。
 
 
 ### 致谢
